@@ -12,6 +12,8 @@ OEM Info for elementary OS System Settings
 
 I made this for the various devices I use/have used that didn't provide good data out of the box, but pull requests are welcome for more hardware!
 
+See the [Switchboard About Plug's OEM Configuration section](https://github.com/elementary/switchboard-plug-about/#oem-configuration) for more info.
+
 ### Images
 
 Images should:
