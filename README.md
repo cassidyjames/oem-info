@@ -2,6 +2,8 @@
 
 OEM Info for elementary OS System Settings
 
+![Screenshot](screenshot.png)
+
 ## To use:
 
 1. Find your device in the list of folders
