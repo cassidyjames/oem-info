@@ -2,10 +2,8 @@
 
 OEM Info for elementary OS System Settings
 
-<picture>
-  <source srcset="https://github.com/cassidyjames/oem-info/blob/main/screenshot-dark.png" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/cassidyjames/oem-info/blob/main/screenshot.png" />
-</picture>
+![Screenshot](screenshot.png) | ![Screenshot Dark](screenshot-dark.png)
+------------------------------|----------------------------------------
 
 ## To use:
 
