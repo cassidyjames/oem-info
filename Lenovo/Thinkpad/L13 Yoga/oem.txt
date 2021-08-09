@@ -1,0 +1,7 @@
+[OEM]
+Manufacturer=Lenovo
+Product=Thinkpad Yoga
+Version=L13
+#Logo=/etc/oem/lenovo.png
+Logo=/etc/oem/thinkpad-l13-yoga.png
+URL=https://www.lenovo.com/au/en/
