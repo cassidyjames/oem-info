@@ -1,6 +1,6 @@
 # oem-info
 
-OEM Info for elementary OS System Settings
+Unofficial/community-maintained repo of OEM info for elementary OS System Settings
 
 ![Screenshot](screenshot.png) | ![Screenshot Dark](screenshot-dark.png)
 ------------------------------|----------------------------------------
